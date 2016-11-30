@@ -51,7 +51,7 @@ v5.9.0
 ##### New options
 - **albumMax**: Maximum number of albums to display (Flickr, Picasa/Google+, nanoPhotosProvider) (0=disabled).  
   *integer; Default: 0*  
-- **galleryEnableKeyboard**: Enables keyboard navigation beween albums.  
+- **galleryEnableKeyboard**: Enables keyboard navigation between albums.  
   *boolean; Default: false*  
   ESC: display first level  
   Up, Right, PageUp: Display next album  
@@ -153,7 +153,7 @@ v5.6.0
 ##### Misc
 - changed the touch swipe sensibility on gallery  
 
-**Many thanks to Raphaël Renaudon (https://github.com/sevarg) for his contribution.**
+**Many thanks to RaphaÃ«l Renaudon (https://github.com/sevarg) for his contribution.**
 
 
 v5.5.4
@@ -235,7 +235,7 @@ v5.5.0
 - bugfix fullscreen mode not correctly disabled after closing an image with ESC key  
 - minor bugfixes  
 
-**Many thanks to Raphaël Renaudon (https://github.com/sevarg) for his contribution.**
+**Many thanks to RaphaÃ«l Renaudon (https://github.com/sevarg) for his contribution.**
 
 v5.4.0
 ------
@@ -288,7 +288,7 @@ v5.4.0
 - `thumbnailSizeLA` -> replaced by `breakpointSizeLA`, but still supported  
 - `thumbnailSizeXL` -> replaced by `breakpointSizeXL`, but still supported  
   
-**Many thanks to Raphaël Renaudon (https://github.com/sevarg) for his contribution.**  
+**Many thanks to RaphaÃ«l Renaudon (https://github.com/sevarg) for his contribution.**  
 
 
 v5.3.0
